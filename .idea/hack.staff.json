@@ -1,0 +1,20 @@
+{
+  "id": "86366253-b736-45ee-8d48-f4ec03052841",
+  "tasks": [],
+  "name": "Hack",
+  "description": "Just",
+  "scaffoldType": "REST_API",
+  "gitHubConfig": {
+    "repoName": "intellij-community",
+    "repoId": 159923407,
+    "username": "whitemike889",
+    "_finished": true
+  },
+  "scaffoldConfig": {
+    "scaffoldingPath": ".idea",
+    "devServer": "https://app.logicherder.com/api",
+    "subscriptionType": "open-source",
+    "subscriptionStatus": "expired",
+    "_finished": true
+  }
+}
